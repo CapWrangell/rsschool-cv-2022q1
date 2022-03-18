@@ -12,11 +12,19 @@
 
 ====
 
-### Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+### About Me
+
+I'm 27 years old. I work at the Kalinin nuclear power plant.
+I want to learn frontend and become a web developer. In the future I want to learn backend. My goal is to change profession, become a web developer and reach my full potential.
 
 ====
 
-### Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+### Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
 
 ====
 
