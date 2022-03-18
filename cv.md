@@ -28,16 +28,42 @@ I want to learn frontend and become a web developer. In the future I want to lea
 
 ====
 
-### Примеры кода
+### Code example
+
+```
+function finalGrade (exam, projects) {
+  if (exam > 90 || projects > 10) {
+    return 100
+    }
+    else {
+    if (exam > 75 && projects >= 5) {
+      return 90
+      }
+      else {
+        if (exam > 50 && projects >= 2) {
+          return 75
+          } else return 0
+        }
+      }
+  }
+```
 
 ====
 
-### Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+### Work experience
+
+_March 2020 - Present_ Kalinin nuclear power plant, Reactor department operator
 
 ====
 
-### Образование (включая пройденные курсы и тренинги)
+### Education
+
+- **University:** Tomsk Polytechnic University _(2012-2018)_
+- **Courses:** RSSchool in progress
 
 ====
 
-### Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### Languages
+
+- **Russian** - native speaker
+- **English** - A2
