@@ -58,8 +58,13 @@ _March 2020 - Present_ Kalinin nuclear power plant, Reactor department operator
 
 ### Education
 
-- **University:** Tomsk Polytechnic University _(2012-2018)_
-- **Courses:** RSSchool in progress
+- **Tomsk Polytechnic University**
+
+* School of Nuclear Science & Engineering
+
+- **Courses:**
+
+* RSSchool in progress
 
 ====
 
