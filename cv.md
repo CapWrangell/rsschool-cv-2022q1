@@ -1,6 +1,6 @@
 # Alexander Malakhov
 
-====
+---
 
 ### Contact information:
 
@@ -10,14 +10,14 @@
 - **GitHub:** [CapWrangell](https://github.com/CapWrangell "Переход на GitHub CapWrangell")
 - **VK:** [Alexander Malakhov](https://vk.com/id34460788)
 
-====
+---
 
 ### About Me
 
 I'm 27 years old. I work at the Kalinin nuclear power plant.
 I want to learn frontend and become a web developer. In the future I want to learn backend. My goal is to change profession, become a web developer and reach my full potential.
 
-====
+---
 
 ### Skills
 
@@ -26,7 +26,7 @@ I want to learn frontend and become a web developer. In the future I want to lea
 - JavaScript
 - Git
 
-====
+---
 
 ### Code example
 
@@ -48,25 +48,25 @@ function finalGrade (exam, projects) {
   }
 ```
 
-====
+---
 
 ### Work experience
 
 _March 2020 - Present_ Kalinin nuclear power plant, Reactor department operator
 
-====
+---
 
 ### Education
 
 - **Tomsk Polytechnic University**
 
-* School of Nuclear Science & Engineering
+  - School of Nuclear Science & Engineering
 
 - **Courses:**
 
-* RSSchool in progress
+  - RSSchool in progress
 
-====
+---
 
 ### Languages
 
