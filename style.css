@@ -12,6 +12,12 @@ body {
   line-height: 1.5;
 }
 
+img {
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+}
+
 h1 {
   font-size: 200%;
 }
