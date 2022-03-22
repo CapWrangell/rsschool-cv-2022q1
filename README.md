@@ -1,1 +1,1 @@
-# rsschool-cv
+https://CapWrangell.github.io/rsschool-cv/
